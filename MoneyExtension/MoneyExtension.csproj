@@ -4,6 +4,23 @@
     <TargetFramework>net10.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+
+    <PackageId>MoneyExtension</PackageId>
+    <Version>1.0.1</Version>
+
+    <Authors>RonamLPS</Authors>
+    <Company>RonamLPS</Company>
+
+    <Description>Biblioteca de extensões para operações financeiras.</Description>
+    <PackageTags>money;finance;extensions</PackageTags>
+
+    <RepositoryUrl>https://github.com/RonamLPS/money-extension</RepositoryUrl>
+
+    <PackageProjectUrl>https://github.com/RonamLPS/money-extension</PackageProjectUrl>
+
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
   </PropertyGroup>
 
 </Project>
