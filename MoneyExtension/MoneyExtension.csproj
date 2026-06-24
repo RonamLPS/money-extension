@@ -5,7 +5,7 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
 
-    <PackageId>MoneyExtension</PackageId>
+    <PackageId>MoneyExtensionRonamLopesRibeiro</PackageId>
     <Version>1.0.1</Version>
 
     <Authors>RonamLPS</Authors>
